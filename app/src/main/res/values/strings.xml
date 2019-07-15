@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fingure Print Auth App</string>
+    <string name="please_place_your_finger_print_here_to_open_app">Please place your Finger print here to open App
+    </string>
+    <string name="fingure_print_auth_app">Fingure Print Auth App</string>
+    <string name="fingure_print_image">Fingure Print Image</string>
+    <string name="place_your_fingure_to_unlock">Place Your Fingure To Unlock</string>
+</resources>
