@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">Fingure Print Auth App</string>
+    <string name="app_name">FINGER PRINT AUTHENTICATION</string>
     <string name="please_place_your_finger_print_here_to_open_app">Please place your Finger print here to open App
     </string>
-    <string name="fingure_print_auth_app">Fingure Print Auth App</string>
-    <string name="fingure_print_image">Fingure Print Image</string>
-    <string name="place_your_fingure_to_unlock">Place Your Fingure To Unlock</string>
+    <string name="fingure_print_auth_app">Secure Your App</string>
+    <string name="fingure_print_image">Finger Print Image</string>
+    <string name="place_your_fingure_to_unlock">Place Your Finger To Unlock</string>
+    <string name="no_enrolled_finger">You Should Add Atleast One Finger Print To Use This Feature</string>
+    <string name="no_lock_message">Add Lock To Your Phone In Settings</string>
+    <string name="set_fingerPrint_permission">Permission Not Set To Use Finger Print</string>
+    <string name="no_fingerPrint_scanner">Finger Print Scanner Not Detected On Device</string>
+    <string name="place_finger_to_scanner">Scan Finger To Access The App</string>
 </resources>
