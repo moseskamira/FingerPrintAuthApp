@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FINGER PRINT AUTHENTICATION</string>
+    <string name="app_name">Android FingerPrint Authentication</string>
     <string name="please_place_your_finger_print_here_to_open_app">Please place your Finger print here to open App
     </string>
     <string name="fingure_print_auth_app">Secure Your App</string>
